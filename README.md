@@ -58,9 +58,4 @@ Atualmente, estou concluindo meus estudos na Trybe, uma escola de desenvolviment
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-## Stack utilizada
-
-**Front-end:** React, Redux, TailwindCSS
-
-**Back-end:** Node, Express
 
