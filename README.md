@@ -5,6 +5,8 @@ Meu nome é Breno, sou Desenvolvedor Web Full-Stack e Arquiteto Urbanista.
 
 Atualmente, estou concluindo meus estudos na Trybe, uma escola de desenvolvimento web online, que proporciona uma formação completa com mais de 1.500 horas de estudo intensivo e prático. Já adquiri conhecimentos e experiência em pilares fundamentais para a área, como JavaScript, React, Redux, Context API, TypeScript, Node.js, MySQL, MongoDB, HTML, CSS, Docker e RTL.
 
+![statics](https://github-readme-stats.vercel.app/api/top-langs/?username=brenoealmeida&theme=dark&layout=compact) 
+
 
 ## Onde estou?
 
@@ -14,7 +16,7 @@ Atualmente, estou concluindo meus estudos na Trybe, uma escola de desenvolviment
 
 
 ## Habilidades
-
+<div style="display:flex;">
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,4 +60,6 @@ Atualmente, estou concluindo meus estudos na Trybe, uma escola de desenvolviment
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+ </div>
 
