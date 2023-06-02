@@ -1,7 +1,7 @@
 
-# Olá, sou o Breno! 👋
+# Olá, boas-vindas! 👋
 
-Sou um Arquiteto e Urbanista em transição de carreira para o setor de tecnologia, com o objetivo de atuar como Desenvolvedor Web Full-Stack. 
+Meu nome é Breno, sou Desenvolvedor Web Full-Stack e Arquiteto Urbanista. 
 
 Atualmente, estou concluindo meus estudos na Trybe, uma escola de desenvolvimento web online, que proporciona uma formação completa com mais de 1.500 horas de estudo intensivo e prático. Já adquiri conhecimentos e experiência em pilares fundamentais para a área, como JavaScript, React, Redux, Context API, TypeScript, Node.js, MySQL, MongoDB, HTML, CSS, Docker e RTL.
 
